@@ -1,16 +1,12 @@
-name: live_iraq
-description: لايف عراق - علم فخم
-publish_to: 'none'
+name: iraq_live
+description: عراق لايف - واحد عراق
 version: 1.0.0+1
 environment:
-  sdk: ">=3.0.0 <4.0.0"
+  sdk: '>=3.0.0 <4.0.0'
 dependencies:
   flutter:
     sdk: flutter
-  cupertino_icons: ^1.0.6
-  video_player: ^2.7.2
-  google_sign_in: ^6.2.1
   shared_preferences: ^2.2.2
-  connectivity_plus: ^6.0.3
+  http: ^1.1.0
 flutter:
   uses-material-design: true
