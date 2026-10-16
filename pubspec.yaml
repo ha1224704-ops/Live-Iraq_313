@@ -14,6 +14,3 @@ dependencies:
   connectivity_plus: ^6.0.3
 flutter:
   uses-material-design: true
-  assets:
-    - assets/iraq_flag.jpg
-    - assets/
